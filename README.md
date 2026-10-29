@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Josiel 👋
 
-<!--
-**Josielz/Josielz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, 4º período
+💻 Em formação para ser **desenvolvedor Full Stack**
+🧩 Gosto de resolver problemas e transformar ideias em soluções que funcionam
 
-Here are some ideas to get you started:
+O que me move é resolver problemas. Quando entendo a dor de alguém, quero construir a solução.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias com as quais já trabalhei
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Estudando agora
+
+- Arquitetura de Software e Computação em Nuvem
+- Banco de dados e SQL
+- Desenvolvimento web (front-end e back-end)
+- Engenharia de Requisitos, Teste e Qualidade de Software
+- Machine Learning
+
+## 📫 Contato
+
+- E-mail: josielgomes255@gmail.com
+---
+⭐ Em constante evolução. Se quiser trocar uma ideia ou dar uma dica, fique à vontade!
