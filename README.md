@@ -1,4 +1,4 @@
-# Olá, eu sou o Josiel 👋
+# Olá, eu sou o Josiel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, 4º período
 💻 Em formação para ser **desenvolvedor Full Stack**
